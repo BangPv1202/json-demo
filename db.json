@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "transfer_money":[
+    {"id": 1, "fileName": "C0502225 01 178044", "createdAt": "2025-02-15T21:05:04.485Z", "transitionTime": "2025-02-15T21:05:04.485Z", "totalMoney": "120000000", "typeMoney": "VND", 
+    "numberCard": "0110028970", "status": 1
+    }
+  ]
 }
